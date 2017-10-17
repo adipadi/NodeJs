@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/adipadi/NodeJs/issues"
   },
-  "homepage": "https://github.com/adipadi/NodeJs#readme"
+  "homepage": "https://github.com/adipadi/NodeJs#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
